@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Deloitte. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "CCAppDelegate.h"
 
 @interface AppDelegate ()
 
